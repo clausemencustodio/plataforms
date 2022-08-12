@@ -62,6 +62,8 @@ body{
   }
   nav >a:hover{
     text-decoration: overline;
+    background-color: #5f3700;
+    transition-duration: 0.5s;
   }
   ul{
     list-style-type:'\2717\0020\0020' ;
