@@ -8,12 +8,15 @@
   font-size: 20px;
 }
 main{
-  width: 850px;
+ /* width: 850px;*/
   background-color: white;
   padding: 9px;
   margin: auto;
   border-radius: 20px;
   box-shadow: 10px,10px,10px black;
+  min-width: -100px;
+  max-width: 750;
+
 
 }
 
