@@ -73,3 +73,6 @@ body{
     columns: 2;
     list-style-position: inside;
 }
+img{
+  width: 100%;
+}
