@@ -83,3 +83,7 @@ aside{
   min-width: 320px;
   max-width: 850px;
 }
+rap{
+  min-width: 100px;
+  max-width: 250px;
+}
