@@ -71,11 +71,7 @@ body{
     background-color: #5f3700;
     transition-duration: 1s;
   }
-  ul{
-    list-style-type:'\2717\0020\0020' ;
-    columns: 2;
-    list-style-position: inside;
-}
+
 fill{
   width: 100%;
 }
