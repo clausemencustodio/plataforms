@@ -14,8 +14,8 @@ main{
   margin: auto;
   border-radius: 20px;
   box-shadow: 10px,10px,10px black;
-  min-width: -100px;
-  max-width: 750px;
+  min-width: 500px;
+  max-width: 800px;
 
 
 }
