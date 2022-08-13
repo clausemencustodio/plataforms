@@ -24,6 +24,8 @@ main{
 header{
   background-color:#5f3700;
   margin: 3px;
+  min-width: 320px;
+  max-width: 850px;
   
 }
 body{
