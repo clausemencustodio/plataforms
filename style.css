@@ -78,3 +78,7 @@ body{
 fill{
   width: 100%;
 }
+aside{
+  min-width: 320px;
+  max-width: 850px;
+}
