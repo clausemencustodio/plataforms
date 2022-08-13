@@ -53,8 +53,9 @@ body{
   }
  nav{  
      background-color: #00558a;
-      padding:2px;
-      text-align: center;    
+      padding: 5px;
+      text-align: center; 
+
  } 
   nav > a{
     text-decoration: none;
